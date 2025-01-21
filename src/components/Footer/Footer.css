@@ -1,0 +1,15 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: #fc6262;
+    height: 4rem;
+    padding: 1rem 3rem;
+    align-items: center;
+    border-top: 0.1rem solid #fe2c2c;
+    margin-top: 1rem;
+}
+
+.repo {
+    font-size: 1.5rem;
+    font-weight: 400;
+}

@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #fc6262;
+    height: 4rem;
+    padding: 1rem 3rem;
+    align-items: center;
+    border-bottom: 0.1rem solid #ff2222;
+    margin-bottom: 1rem;
+}
+
+.logo {
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.repo {
+    font-size: 1.5rem;
+    font-weight: 400;
+}

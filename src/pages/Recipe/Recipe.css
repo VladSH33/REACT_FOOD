@@ -1,0 +1,72 @@
+.recipe {
+    padding: 1rem 0;
+}
+
+img {
+    width: 40%;
+    height: auto;
+    border-radius: 8px 8px 0 0;
+}
+
+h6 {
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+h5 {
+    font-size: 1rem;
+}
+
+p {
+    margin: 1rem 0;
+}
+
+.centered {
+    margin: 20px auto;
+    border-collapse: collapse;
+    width: 80%;
+    max-width: 800px;
+    text-align: left;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+}
+  
+.centered thead {
+    background-color: #fc6262;
+    color: white;
+}
+  
+.centered th, .centered td {
+    padding: 12px 15px;
+    border: 1px solid #ddd;
+}
+  
+.centered tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+  
+.centered tbody tr:hover {
+    background-color: #f1f1f1;
+}
+  
+.centered thead tr:hover {
+    background-color: #fc6262;
+}
+  
+.centered th {
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+}
+  
+.centered td {
+    font-size: 14px;
+    color: #333;
+}
+  
+.centered {
+    border-radius: 8px;
+    overflow: hidden;
+}
+  
