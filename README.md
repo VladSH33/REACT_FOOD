@@ -36,10 +36,9 @@ REACT_FOOD – это приложение для поиска и просмот
 
 ## Скриншоты
 
-![image](https://github.com/user-attachments/assets/067063ad-33b6-4579-b32f-8db32badd20e)
+![image](https://github.com/user-attachments/assets/24305e08-d540-43a0-b86e-6e4cbda7a498)
 
-![image](https://github.com/user-attachments/assets/a33af04e-f3e7-4632-af50-8a8d3aee6342)
+![image](https://github.com/user-attachments/assets/245ca443-3afe-458e-acd9-57985a97f421)
 
-![image](https://github.com/user-attachments/assets/a3141c88-2347-4759-a82c-0cacb5a9ede3)
 
 
