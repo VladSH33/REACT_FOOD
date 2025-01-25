@@ -28,3 +28,7 @@
 .card-action {
     margin: 1rem;
 }
+
+.card-content {
+    margin: 0 1rem;
+}

@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <header className="header">
       <a href="#" className="logo">
-        React Shop
+        React Food
       </a>
       <a href="!#" className="repo">
         repo
